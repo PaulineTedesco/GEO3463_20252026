@@ -1,4 +1,4 @@
-# GEO3463_20242025_V2
+# GEO3463_20252026
 
 Repository for module GEO3463 Research Cruise (2026 cohort)
 
