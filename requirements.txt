@@ -5,8 +5,6 @@ openpyxl
 netCDF4
 scikit-learn
 lmfit
-linecache
-re
 cmocean
 cartopy
 contextily
